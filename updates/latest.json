@@ -1,11 +1,11 @@
 {
-  "version": "0.5.3",
-  "notes": "Security improvements and SoundCloud link pasting.\n- Your SoundCloud sign-in is now stored encrypted on your PC\n- Extra safeguards so your sign-in is only ever sent to SoundCloud\n- Paste a SoundCloud link (Ctrl+V, or in Search) to open that song, playlist or artist in the app\n- Links you click in the app open in your browser",
-  "pub_date": "2026-10-27T21:09:20.008Z",
+  "version": "0.5.4",
+  "notes": "Song pages and an NVIDIA Instant Replay fix.\n- Click a song's title (in lists or the player) to open its page: big waveform, comments, description, related tracks\n- Pasting a song link opens its page\n- The app should no longer switch off NVIDIA ShadowPlay Instant Replay (it still pauses only while a DRM-protected track plays)",
+  "pub_date": "2026-10-27T21:23:06.666Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM2lTOXN0Y3hNb0Z3bXpZMXdtajk0aE9uWko5SzlzbDVsY3ZLMWZ6YmNkd3NoQjJnWUU5V1JwUHMyejRyUmJmYUV6STZsUzRaK2daYkc0Sy9TQWVkTkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTM1MzUxCWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNS4zX3g2NC1zZXR1cC5leGUKVUg3cXBCNWRCbm9IMnplVnE5S3NsMFZuOVB3SUhaclQ2M1NyZlhwcTlWSE1iTXgydGVYL3N5bFozbnlSM2kvWWJ5cWM5Ym45b3YzRk53emNScFJiQlE9PQo=",
-      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.5.3.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM3IzM3hCT2I3Y1N5SEoxUmNDSVY2VmlVM3RwTDhINDhtR3pzRFZDMUdVY0xSVEJVRzNBS1pncFFsbjNEbTFHbjNQVi9UMC84NExCQkZjd1BrQ3JKMmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTM2MTczCWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNS40X3g2NC1zZXR1cC5leGUKNUNtS0lwdkF3UGFiQTdaU0RZMDdzOVNQWXE5dXNSKzZ5a1ZkbmNFSzBHUTdNdUFCaXg2dzN3bjlKZlM3RXl0WFJzT2I4S3ArM2JlWE9rY0c1ZXRPQ2c9PQo=",
+      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.5.4.exe"
     }
   }
 }
