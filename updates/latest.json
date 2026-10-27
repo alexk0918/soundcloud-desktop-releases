@@ -1,11 +1,11 @@
 {
-  "version": "0.5.5",
-  "notes": "Random songs and tags.\n- Click the SoundCloud logo to play a completely random song from SoundCloud\n- Click a song's genre or tags to see more tracks with that tag (recent, popular, playlists)\n- Search by tag: type #tag and press Enter, or use Browse tag",
-  "pub_date": "2026-10-27T21:51:38.592Z",
+  "version": "0.5.6",
+  "notes": "SoundCloud links open in the app.\n- Clicking a SoundCloud link (songs, artists, playlists, mixes, tags) opens it right in the app\n- @mentions in descriptions and comments open that artist\n- Other links still open in your browser",
+  "pub_date": "2026-10-27T22:24:20.397Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM2pCaUdvNEJCVVZoamV3UFFkMHh2anpZOXNKWEcvd1BCNzVIbGcrdVVOUGFvNE9mSEY2OUY0WFZ4UU4wbm1uWEt6M3ZaV3J3aDl6MlpISXBMcnFjTEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTM3ODg3CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNS41X3g2NC1zZXR1cC5leGUKaW8yVys4VmNqS1VCSXZoNHd1VmgwZys3eVBudE1zSHBtN2NSV3BoUlVQM0VvcXBvc1BKb1VOL04wNXhTaDdETlpJZnZHeUNqYW56U1E2RFJxYTFlQlE9PQo=",
-      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.5.5.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM3NVY0FvaTRvUkhCcTA5MTRBb0I3bi8xSi9YcFAvU3ZFbnpWNW8zS1JaYytUYW94M0d5cEZRenBaejBzWURwY0ZTV0U0OEk3VjdnZFpxb2svWTBJb0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTM5ODQ3CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNS42X3g2NC1zZXR1cC5leGUKSHZqQnZ1MW9FbXdOd2Qxc3hiQWdPNzdFSEdINnRmMjdDd3hkazl6NDVUSjVXZ1paV0JYYnZWODJ6ZkFYM01va29UWFJIdStmbERUaXlsbDNFYVFVQ1E9PQo=",
+      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.5.6.exe"
     }
   }
 }
