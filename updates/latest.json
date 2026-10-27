@@ -1,11 +1,11 @@
 {
-  "version": "0.5.7",
-  "notes": "Search inside your playlists and likes.\n- New search box on playlists, Liked Songs and mixes: find songs by title, artist, album or tag (#tag for tags only). Ctrl+F jumps to it\n- Right-click menus now work on related songs, the song page title and quick search results\n- New Go to song option in the song right-click menu",
-  "pub_date": "2026-10-27T22:59:09.824Z",
+  "version": "0.5.8",
+  "notes": "4:3 fixes, favorite tag and liked-by lists.\n- Song titles stay readable in 4:3 and other small windows\n- New Favorite tag in Settings: the SoundCloud logo plays a random song with that tag (leave blank for fully random)\n- Click a song's like or repost count to see who liked or reposted it",
+  "pub_date": "2026-10-27T23:16:11.058Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM3VHL2FCVkVHR2M5ZUNVQ2xWTjJ2M3pIS3BVYTE1L1pvY2h0M0dhdjBDWjFvZFRGdEJ3QkFmVmdEZVBwL3FnaUd1cWtJODZNZzJ4c1pTNFZ6eXZ4a1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTQxOTM3CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNS43X3g2NC1zZXR1cC5leGUKTGtHQlBJRGpKbGczVEJ1YjMvRjlnZ0tkK2ZONjJ6QlVUWUN3YU01RmEwSlozQ3h4SEwweDdNZW12Q1lPUkdkQkJSSlpjWW5VYlJPdWxsYVdvbzNKRGc9PQo=",
-      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.5.7.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM3Rucks1dlZRWlVHQmtJUjhwbGdtaDF6MW5HRkI1MVZ2RTczTktOUHhzWkM5djFzSkRoQW4zNzlIenRUSXU4OWxmYW9DWjZ1OTNzRmxnclZmL0prdHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTQyOTU3CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNS44X3g2NC1zZXR1cC5leGUKK0JNWGZPTUZteVBydTJyWWE0blI5SFhXNXVIUUVVSys0Ulc5dVhoQ2lCQlZTelVJNVp4QlZaeHQvbFZsQzJRdXAwZElQUjZhUGFHUk9sU0NyM2tSQ1E9PQo=",
+      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.5.8.exe"
     }
   }
 }
