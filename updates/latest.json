@@ -1,11 +1,11 @@
 {
-  "version": "0.5.2",
-  "notes": "Smoother Organize menu and faster update alerts.\n- Drag sections from anywhere on the row; only the checkbox turns them on or off\n- Unchecked sections now always move to the bottom\n- Scroll the For You page while the Organize menu is open\n- New update alerts show up within a minute or two of release\n- Refreshed For You and Settings icons",
-  "pub_date": "2026-10-27T16:55:15.857Z",
+  "version": "0.5.3",
+  "notes": "Security improvements and SoundCloud link pasting.\n- Your SoundCloud sign-in is now stored encrypted on your PC\n- Extra safeguards so your sign-in is only ever sent to SoundCloud\n- Paste a SoundCloud link (Ctrl+V, or in Search) to open that song, playlist or artist in the app\n- Links you click in the app open in your browser",
+  "pub_date": "2026-10-27T21:09:20.008Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM3E0YmRpUnZkMXdpMTJzZkY1VTJaQ0FaK1BKdHV0Y0JLMTd1dDI0ZEJzVlV1cVdpL3kxZXBDdG9CVy9FclVUUHdpWUJ3ZUtKcENoVFk3WjFMclA5NFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTIwMDk0CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNS4yX3g2NC1zZXR1cC5leGUKL0VKZC9yTkU0aEVYMDhDQ0hXWDNLeW50cDl4T2U4NHZKTjl5cGVqTVNVcXk1czU1WDZZNXZOQjB0Qys1TE5MWTc5dUJENGNuRkh5TjVmL3pubDZoQUE9PQo=",
-      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.5.2.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM2lTOXN0Y3hNb0Z3bXpZMXdtajk0aE9uWko5SzlzbDVsY3ZLMWZ6YmNkd3NoQjJnWUU5V1JwUHMyejRyUmJmYUV6STZsUzRaK2daYkc0Sy9TQWVkTkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTM1MzUxCWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNS4zX3g2NC1zZXR1cC5leGUKVUg3cXBCNWRCbm9IMnplVnE5S3NsMFZuOVB3SUhaclQ2M1NyZlhwcTlWSE1iTXgydGVYL3N5bFozbnlSM2kvWWJ5cWM5Ym45b3YzRk53emNScFJiQlE9PQo=",
+      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.5.3.exe"
     }
   }
 }
