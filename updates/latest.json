@@ -1,11 +1,11 @@
 {
-  "version": "0.5.4",
-  "notes": "Song pages and an NVIDIA Instant Replay fix.\n- Click a song's title (in lists or the player) to open its page: big waveform, comments, description, related tracks\n- Pasting a song link opens its page\n- The app should no longer switch off NVIDIA ShadowPlay Instant Replay (it still pauses only while a DRM-protected track plays)",
-  "pub_date": "2026-10-27T21:23:06.666Z",
+  "version": "0.5.5",
+  "notes": "Random songs and tags.\n- Click the SoundCloud logo to play a completely random song from SoundCloud\n- Click a song's genre or tags to see more tracks with that tag (recent, popular, playlists)\n- Search by tag: type #tag and press Enter, or use Browse tag",
+  "pub_date": "2026-10-27T21:51:38.592Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM3IzM3hCT2I3Y1N5SEoxUmNDSVY2VmlVM3RwTDhINDhtR3pzRFZDMUdVY0xSVEJVRzNBS1pncFFsbjNEbTFHbjNQVi9UMC84NExCQkZjd1BrQ3JKMmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTM2MTczCWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNS40X3g2NC1zZXR1cC5leGUKNUNtS0lwdkF3UGFiQTdaU0RZMDdzOVNQWXE5dXNSKzZ5a1ZkbmNFSzBHUTdNdUFCaXg2dzN3bjlKZlM3RXl0WFJzT2I4S3ArM2JlWE9rY0c1ZXRPQ2c9PQo=",
-      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.5.4.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM2pCaUdvNEJCVVZoamV3UFFkMHh2anpZOXNKWEcvd1BCNzVIbGcrdVVOUGFvNE9mSEY2OUY0WFZ4UU4wbm1uWEt6M3ZaV3J3aDl6MlpISXBMcnFjTEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTM3ODg3CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNS41X3g2NC1zZXR1cC5leGUKaW8yVys4VmNqS1VCSXZoNHd1VmgwZys3eVBudE1zSHBtN2NSV3BoUlVQM0VvcXBvc1BKb1VOL04wNXhTaDdETlpJZnZHeUNqYW56U1E2RFJxYTFlQlE9PQo=",
+      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.5.5.exe"
     }
   }
 }
