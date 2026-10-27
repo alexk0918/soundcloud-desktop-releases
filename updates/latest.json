@@ -1,0 +1,11 @@
+{
+  "version": "0.5.0",
+  "notes": "First version with in-app updates.\n- New For You page: Weekly, daily mixes and stations SoundCloud makes for you, with Save as playlist\n- Updates now install from inside the app (Settings → About → Check for updates)",
+  "pub_date": "2026-10-27T15:27:37.907Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM2gzZm5obVhiZjJYV0dacGJmNmU4VXdHeVhEUE45ZWZPU3FPWC9hKy81YlFmWTdTS0kxNkNYSUhKVUNCSkxPVVJUNnJtM3JweVNOcnV2WitLQ2RGSHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTE0ODUyCWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNS4wX3g2NC1zZXR1cC5leGUKZ0RDNFRUK1Ztcy9XQUtUM0NMeFNXOXNyS09CSElTQzhkNlRDWWtKZzdFU1ZzMzFuL01Kc2pueTJMMnRScWxBQUxLR0thU3c2RVlCbXoyZFdQRnhkQ0E9PQo=",
+      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.5.0.exe"
+    }
+  }
+}

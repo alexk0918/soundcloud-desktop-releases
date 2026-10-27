@@ -1,0 +1,32 @@
+name: Publish release
+
+# Turns each new update (updates/latest.json) into a GitHub Release with the
+# installer attached, so people can download it from the Releases page.
+on:
+  push:
+    branches: [main]
+    paths: [updates/latest.json]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          version=$(jq -r .version updates/latest.json)
+          notes=$(jq -r .notes updates/latest.json)
+          installer="updates/SoundCloud-Desktop-Setup-${version}.exe"
+          test -f "$installer"
+          # Re-running replaces the release so its tag sits on the current commit.
+          if gh release view "v${version}" >/dev/null 2>&1; then
+            gh release delete "v${version}" --cleanup-tag --yes
+          fi
+          gh release create "v${version}" "$installer" \
+            --target "$GITHUB_SHA" --title "SoundCloud Desktop ${version}" --notes "$notes" --latest
