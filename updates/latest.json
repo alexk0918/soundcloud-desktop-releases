@@ -1,11 +1,11 @@
 {
-  "version": "0.5.1",
-  "notes": "Organize your For You page.\n- New Organize button: drag sections to reorder them and tick them on or off\n- Recently Played is hidden by default (turn it on in Organize)\n- For You now shows every row SoundCloud has for you, including tracks and artists",
-  "pub_date": "2026-10-27T16:16:30.744Z",
+  "version": "0.5.2",
+  "notes": "Smoother Organize menu and faster update alerts.\n- Drag sections from anywhere on the row; only the checkbox turns them on or off\n- Unchecked sections now always move to the bottom\n- Scroll the For You page while the Organize menu is open\n- New update alerts show up within a minute or two of release\n- Refreshed For You and Settings icons",
+  "pub_date": "2026-10-27T16:55:15.857Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM25USzBzSFc2VUlZMmlMQ3pscEhnbVMwa21XSGpZaHROS2U3bjhZQVkrL2N5NmpHTXNTT0dJcTdRazRJTVh3a284b1U5T3pqVDN5cGh6eDJDL3NtNndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTE3NzgxCWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNS4xX3g2NC1zZXR1cC5leGUKVHRCdXNMTkZhTWpSQ1B1ZWRuaCtmTGxZMDVpVWdYVzVITHJBcjFjK096L0s0WlVCYTNMVzhYbU5RVHJRelh4QVVTTGVnWHlmSVhDTkNaM3BkTlVEQXc9PQo=",
-      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.5.1.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM3E0YmRpUnZkMXdpMTJzZkY1VTJaQ0FaK1BKdHV0Y0JLMTd1dDI0ZEJzVlV1cVdpL3kxZXBDdG9CVy9FclVUUHdpWUJ3ZUtKcENoVFk3WjFMclA5NFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTIwMDk0CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNS4yX3g2NC1zZXR1cC5leGUKL0VKZC9yTkU0aEVYMDhDQ0hXWDNLeW50cDl4T2U4NHZKTjl5cGVqTVNVcXk1czU1WDZZNXZOQjB0Qys1TE5MWTc5dUJENGNuRkh5TjVmL3pubDZoQUE9PQo=",
+      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.5.2.exe"
     }
   }
 }
