@@ -1,11 +1,11 @@
 {
-  "version": "0.5.8",
-  "notes": "4:3 fixes, favorite tag and liked-by lists.\n- Song titles stay readable in 4:3 and other small windows\n- New Favorite tag in Settings: the SoundCloud logo plays a random song with that tag (leave blank for fully random)\n- Click a song's like or repost count to see who liked or reposted it",
-  "pub_date": "2026-10-27T23:16:11.058Z",
+  "version": "0.5.9",
+  "notes": "Link Up: listen along with friends.\n- Link Up: click the people button next to the player to start one, then share the invite link or code. Everyone hears the same song at the same moment, and anyone can play, pause, skip or add songs (up to 50 people)\n- The host can switch on 'Only I can control playback'\n- Each person's play counts as their own listen\n- Random songs from the SoundCloud logo no longer repeat until you've heard every song for your tag",
+  "pub_date": "2026-10-28T04:10:50.422Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM3Rucks1dlZRWlVHQmtJUjhwbGdtaDF6MW5HRkI1MVZ2RTczTktOUHhzWkM5djFzSkRoQW4zNzlIenRUSXU4OWxmYW9DWjZ1OTNzRmxnclZmL0prdHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTQyOTU3CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNS44X3g2NC1zZXR1cC5leGUKK0JNWGZPTUZteVBydTJyWWE0blI5SFhXNXVIUUVVSys0Ulc5dVhoQ2lCQlZTelVJNVp4QlZaeHQvbFZsQzJRdXAwZElQUjZhUGFHUk9sU0NyM2tSQ1E9PQo=",
-      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.5.8.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM3R5bGNQMHdwbWFCQU41bkJGYjB1K2ZIaXNsQ3drS25LY3hBakFTUFlDSDBRNXdzaDNDdG1RWU1hQlptbWgxN3YzVFZjeEhsNExSM29ndWpGbU5XclFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTYwNjUwCWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNS45X3g2NC1zZXR1cC5leGUKdlJ5ZDNhbGIzUWY0KzVUQTJpRkNPNGR3TVM5NS8yQ2J6ZmNDbUZHRU1FS3dvbHZzNy9RZ1loTGlveUVkYXF5V3ZWWXpIVWNFT0V0OWFKeWFJQ2xnREE9PQo=",
+      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.5.9.exe"
     }
   }
 }
