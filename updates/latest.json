@@ -1,11 +1,11 @@
 {
-  "version": "0.5.9",
-  "notes": "Link Up: listen along with friends.\n- Link Up: click the people button next to the player to start one, then share the invite link or code. Everyone hears the same song at the same moment, and anyone can play, pause, skip or add songs (up to 50 people)\n- The host can switch on 'Only I can control playback'\n- Each person's play counts as their own listen\n- Random songs from the SoundCloud logo no longer repeat until you've heard every song for your tag",
-  "pub_date": "2026-10-28T04:10:50.422Z",
+  "version": "0.5.10",
+  "notes": "New profile bar, Play next, like dates and drag to reorder.\n- Your profile now sits at the bottom of the sidebar: click it to open your profile, use the arrow to switch accounts, and the gear for Settings\n- Right-click a song and choose Play next to have it play right after the current song\n- Your Likes (and people's Likes tabs) show when each song was liked, next to the release date\n- Drag songs to reorder your queue and the Link Up queue\n- Pausing from a song's cover now pauses instead of restarting it\n- The sign-in window opens bigger and centered\n- Link Up has a new home (linkup.sclinkup.workers.dev); update to keep using it",
+  "pub_date": "2026-10-28T04:56:09.849Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM3R5bGNQMHdwbWFCQU41bkJGYjB1K2ZIaXNsQ3drS25LY3hBakFTUFlDSDBRNXdzaDNDdG1RWU1hQlptbWgxN3YzVFZjeEhsNExSM29ndWpGbU5XclFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTYwNjUwCWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNS45X3g2NC1zZXR1cC5leGUKdlJ5ZDNhbGIzUWY0KzVUQTJpRkNPNGR3TVM5NS8yQ2J6ZmNDbUZHRU1FS3dvbHZzNy9RZ1loTGlveUVkYXF5V3ZWWXpIVWNFT0V0OWFKeWFJQ2xnREE9PQo=",
-      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.5.9.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM21zUGU3Q3ZIVEViSzE5Z3oxRWdNaHU2UnhpTDdCZ1lEOWJtd0gyK2hZdEx5S1o2aDREYmdjUGJ4ZkZoWFZUb2VqM0w2ZmZzQ2FYQ2lBU2g3cFdQZkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTYzMzY5CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNS4xMF94NjQtc2V0dXAuZXhlCkFpRURrRCtsSUJUTDQyUCtVR2tXTEtVTDZaNE96QXZWdU5UWE5yUUVXTyticTZuTGwzUi9ieDFKVFkveHhNS0VGQXA5Rjk5WEM5RlQ5eWZrYnJmaUFnPT0K",
+      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.5.10.exe"
     }
   }
 }
