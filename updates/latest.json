@@ -1,11 +1,11 @@
 {
-  "version": "0.6.1",
-  "notes": "Better tag search, correct song sources, instant resume after Link Up.\n- Searching #al finds songs tagged alternative, Alt Rock and more, any capitalization; the Search page suggests matching tags\n- Every song in your queue (and the Link Up queue) remembers where it was added from, so Playing from is always right\n- Leaving a Link Up keeps its song loaded and paused where it was, so Play resumes instantly",
-  "pub_date": "2026-10-28T07:27:50.471Z",
+  "version": "0.6.2",
+  "notes": "Link Up now lives in a tab tucked behind your profile bar: hover it to slide it up, hold for a second to see the name, click to open. The panel genies out of the tab and back into it, and the tab glows while you're in a Link Up. Starting or joining a Link Up now happens right in the panel. Invite text now reads \"Link Up with me on SoundCloud Desktop\".",
+  "pub_date": "2026-10-28T08:08:49.122Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM2pWVUpDemtSZFR1ZHExZ1hrVlRCNUU0c1NLQW44SmRiQzJsOU5TeDNjbi9NU1BLWVMyYllmOFV6SCs5SjBSaHE3MlJSZXladWcxc2RMSzJtOVg0R0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTcyNDcwCWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNi4xX3g2NC1zZXR1cC5leGUKNTFBVlpjaTFKUmlkdndRUUlnQU5uNU9WV0l4ZGd2dFN6eTd3MGtKbWtSenN5cVl3VnB1UTZxV0x5TWZ0OVZaeDZZK2VCVkx6K1NVMlRvMldUZlZkQ3c9PQo=",
-      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.6.1.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM29EVTR0UEJyWkJBMmtLMjJKSXAveUF0cWtwNzJHa2dUTzRJVWdZR01zS3BsVUZwSGlVeGx4U1FObm9nbGFVbWx4eFVQMUE3VVI5aFFBd1k4THNZZHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTc0OTI5CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNi4yX3g2NC1zZXR1cC5leGUKUk1uTzVSbU8xVkJHQ3Y3dmErM1ZsSG5UYjZ6d3J0WHZ3cEdUTE0vck1XYXEzbGdHTC9Kb2JvenprcU9rMmFlS21VWmNSTUEzcG1qVXN0d2UyajYzQkE9PQo=",
+      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.6.2.exe"
     }
   }
 }
