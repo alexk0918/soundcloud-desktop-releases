@@ -1,11 +1,11 @@
 {
-  "version": "0.6.0",
-  "notes": "Settings tabs, playlist editing and Playing from.\n- Settings now has tabs: Preferences, Account, Security, Streaming and About\n- Edit your playlists with the gear on their page: cover art, title, description, public or private\n- Right-click to remove a song from your playlist, or from Liked Songs on your Likes\n- Right-click the playing song to go to the playlist, album or likes it's playing from (works in Link Up too)\n- Link Up: the panel sits beside the page, drag songs like the For You organizer, right-click for the song menu, and a playlist's play button sends the whole playlist\n- Playlists page shows playlists and albums separately, most recently played first\n- Click who reposted a song in your feed to open their profile\n- Sidebar items fade between colors, and the SoundCloud logo glows and wiggles when you hover it",
-  "pub_date": "2026-10-28T06:14:42.370Z",
+  "version": "0.6.1",
+  "notes": "Better tag search, correct song sources, instant resume after Link Up.\n- Searching #al finds songs tagged alternative, Alt Rock and more, any capitalization; the Search page suggests matching tags\n- Every song in your queue (and the Link Up queue) remembers where it was added from, so Playing from is always right\n- Leaving a Link Up keeps its song loaded and paused where it was, so Play resumes instantly",
+  "pub_date": "2026-10-28T07:27:50.471Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM3RvelFIUG1HUzZTWTBNTzlWUHF6S1RFTEdHN2NOYXZLWkFRRTlaRERPR0VTSVR3ZTRSMVp0c1g3b2xDc014aTlMeFZmY1FYU3o2Wjl6bEE2ejN1ZkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTY4MDgyCWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNi4wX3g2NC1zZXR1cC5leGUKR1Y5bWNkTTMwZExaL1FMWnMwQ0krUEtWMW9ORHpyT3pwdERSVXo0eTMzVFhPV2RDZDJ2N2NxTkpucFNKMzJ3QUY3SnB6TWlMUHdxd3BwbmUrUkJtQ0E9PQo=",
-      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.6.0.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM2pWVUpDemtSZFR1ZHExZ1hrVlRCNUU0c1NLQW44SmRiQzJsOU5TeDNjbi9NU1BLWVMyYllmOFV6SCs5SjBSaHE3MlJSZXladWcxc2RMSzJtOVg0R0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTcyNDcwCWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNi4xX3g2NC1zZXR1cC5leGUKNTFBVlpjaTFKUmlkdndRUUlnQU5uNU9WV0l4ZGd2dFN6eTd3MGtKbWtSenN5cVl3VnB1UTZxV0x5TWZ0OVZaeDZZK2VCVkx6K1NVMlRvMldUZlZkQ3c9PQo=",
+      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.6.1.exe"
     }
   }
 }
