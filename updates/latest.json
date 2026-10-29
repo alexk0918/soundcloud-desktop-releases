@@ -1,11 +1,11 @@
 {
-  "version": "0.6.2",
-  "notes": "Link Up now lives in a tab tucked behind your profile bar: hover it to slide it up, hold for a second to see the name, click to open. The panel genies out of the tab and back into it, and the tab glows while you're in a Link Up. Starting or joining a Link Up now happens right in the panel. Invite text now reads \"Link Up with me on SoundCloud Desktop\".",
-  "pub_date": "2026-10-28T08:08:49.122Z",
+  "version": "0.6.3",
+  "notes": "Lyrics are here: press the new Lyrics button in the player bar for fullscreen lyrics that follow the song line by line (click a line to jump to it), or switch to the mini player you can drag, resize and pin on top of other apps. Lyrics come from LRCLIB, or from the track's description when an artist pasted them there. Long song and artist names now scroll so you can read them, and the Link Up panel slides in smoothly.",
+  "pub_date": "2026-10-29T08:10:08.855Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM29EVTR0UEJyWkJBMmtLMjJKSXAveUF0cWtwNzJHa2dUTzRJVWdZR01zS3BsVUZwSGlVeGx4U1FObm9nbGFVbWx4eFVQMUE3VVI5aFFBd1k4THNZZHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTc0OTI5CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNi4yX3g2NC1zZXR1cC5leGUKUk1uTzVSbU8xVkJHQ3Y3dmErM1ZsSG5UYjZ6d3J0WHZ3cEdUTE0vck1XYXEzbGdHTC9Kb2JvenprcU9rMmFlS21VWmNSTUEzcG1qVXN0d2UyajYzQkE9PQo=",
-      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.6.2.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM3ZubGVlcFBiSUJ0OWUzUHFnZC9wSHVXWHdzSm1EQnVIbkhOQjU4WjZYaW4zMW5lYURybUJ1TkhCZVJhT2xKZjNxWFlocnFndXduSkpKckV3VU16amdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjYxNDA4CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNi4zX3g2NC1zZXR1cC5leGUKODBqdVhPcmc0NGd5M1NHVS8yMEFLVUN0OFlnTklkckl0c1J1NkROcVd4ZlhVbnVFcjVZTElhLzlIOXFGZ2ZhMFhmQWNwWWQ3ejZ0djZoa3pWcTZzREE9PQo=",
+      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.6.3.exe"
     }
   }
 }
