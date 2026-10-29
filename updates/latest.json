@@ -1,11 +1,11 @@
 {
-  "version": "0.6.3",
-  "notes": "Lyrics are here: press the new Lyrics button in the player bar for fullscreen lyrics that follow the song line by line (click a line to jump to it), or switch to the mini player you can drag, resize and pin on top of other apps. Lyrics come from LRCLIB, or from the track's description when an artist pasted them there. Long song and artist names now scroll so you can read them, and the Link Up panel slides in smoothly.",
-  "pub_date": "2026-10-29T08:10:08.855Z",
+  "version": "0.6.4",
+  "notes": "The SoundCloud logo button now starts a random station: when the random song ends, another random one plays (in your favorite tag, or from anywhere), never repeating an artist. Random picks now reach the whole tag, from songs with a handful of plays to big hits. Lyrics are smarter: the uploader's artist name is used, titles are cleaned up, wrong songs are no longer matched, and a busy lyrics service is retried automatically. The pinned mini player's corners are now properly rounded and see-through.",
+  "pub_date": "2026-10-29T15:55:28.119Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM3ZubGVlcFBiSUJ0OWUzUHFnZC9wSHVXWHdzSm1EQnVIbkhOQjU4WjZYaW4zMW5lYURybUJ1TkhCZVJhT2xKZjNxWFlocnFndXduSkpKckV3VU16amdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjYxNDA4CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNi4zX3g2NC1zZXR1cC5leGUKODBqdVhPcmc0NGd5M1NHVS8yMEFLVUN0OFlnTklkckl0c1J1NkROcVd4ZlhVbnVFcjVZTElhLzlIOXFGZ2ZhMFhmQWNwWWQ3ejZ0djZoa3pWcTZzREE9PQo=",
-      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.6.3.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM25FeWpzd0JNSko0RE5lSnFTYWVCT0RzNnNTQUNKalpLWTZ4ckgvWFNKbGxTNEtJVVUxMHgyV2x4dmdvVXlXVnNrdXZDdGJ6S3VZMFhGSkxlQWVZTFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjg5MzI4CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNi40X3g2NC1zZXR1cC5leGUKS0ZmaU5ONHhtTkNHdWo0aHkzbW9wRkpoRDdScUJVbVNpdmk1bUJaYk9tUUxhOWtOai93d3JOTFR5ZzJDUW1aTS8vVFlDMUN4clozUUthUjRBQjYxRFE9PQo=",
+      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.6.4.exe"
     }
   }
 }
