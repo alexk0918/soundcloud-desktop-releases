@@ -1,11 +1,11 @@
 {
-  "version": "0.6.6",
-  "notes": "Favorites: its own star switch, star artists right from the feed, avatar bar, Play all, and the box minimizes to a bar. New uploads sparkle until you play them; the Feed button counts unheard new tracks from favorites. Random station menu: switch tag, rule out an artist, stop. Next shows what a skip plays. Clear queue (solo and Link Up).",
-  "pub_date": "2026-10-29T21:36:47.188Z",
+  "version": "0.6.7",
+  "notes": "Favorite any artist from the star next to their name, anywhere in the app. The mini player has a volume button: hover for a slider, click to keep it open. The Next hint no longer gets cut off by lyrics.",
+  "pub_date": "2026-10-30T03:13:39.099Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM2xGTElvNUpWSllzTGxEQ1g0NWZVc1Uwb1V6MVlHejdNUjI5dElqM2FYWUl3Znc5ODJ4Z1FRSDIwck1UVGlhVnFCMWREUWhQS1FHNG9rYzUrbWhtM0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzA5ODA3CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNi42X3g2NC1zZXR1cC5leGUKbXBFenkyaTFLYlB5R25RM0pqczZsUE9RNVdLYmRWaTNrSm1lTkUzSmdLWlFjZFREdXNLS2JoNTZUc29uSno0a3dLWXZ6RHd1encrdW1TRFRIcnFlQ2c9PQo=",
-      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.6.6.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM2tlY2FOZThaV2xGb1d2NVIwa01NREo4Qit6MVdlUWZTdEg0YzN4Y0tMaWk1L040b05NRFZCTUVjSGVJSU1lWE81ZDRFbnJkN3diYTRTYmMrOThNVWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzMwMDE5CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNi43X3g2NC1zZXR1cC5leGUKSnVEMkpBNzdQYllaUVFyNkhKK0RjMjdqem92K05EalBwTUVLeGpkMTVibDhKaWZBcXdSVzV1czRtYmVSSjhvRlpCRkJtckhBeWtsRzFWd0FROVgzQnc9PQo=",
+      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.6.7.exe"
     }
   }
 }
