@@ -1,11 +1,11 @@
 {
-  "version": "0.6.7",
-  "notes": "Favorite any artist from the star next to their name, anywhere in the app. The mini player has a volume button: hover for a slider, click to keep it open. The Next hint no longer gets cut off by lyrics.",
-  "pub_date": "2026-10-30T03:13:39.099Z",
+  "version": "0.6.8",
+  "notes": "New Favorites view in the feed: only your favorite artists, all their uploads newest first, with Reposts/Playlists and one-artist filters. Sessions no longer expire after time away: the app renews its SoundCloud sign-in quietly.",
+  "pub_date": "2026-11-14T16:42:54.387Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM2tlY2FOZThaV2xGb1d2NVIwa01NREo4Qit6MVdlUWZTdEg0YzN4Y0tMaWk1L040b05NRFZCTUVjSGVJSU1lWE81ZDRFbnJkN3diYTRTYmMrOThNVWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzMwMDE5CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNi43X3g2NC1zZXR1cC5leGUKSnVEMkpBNzdQYllaUVFyNkhKK0RjMjdqem92K05EalBwTUVLeGpkMTVibDhKaWZBcXdSVzV1czRtYmVSSjhvRlpCRkJtckhBeWtsRzFWd0FROVgzQnc9PQo=",
-      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.6.7.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM21WQTlXelQ1aXF3WExlZlBqN0h3TUlSUGFmWENwOHlYUU5BT2pTQ3l2SlBWbXMzcHZmRlJDYW9HWkhCR2NiRWdMUFdwMHpSMmhPTlJjclpyMlVVRlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njc0NTc0CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNi44X3g2NC1zZXR1cC5leGUKQzduSC9WOVl4b2l5VFJVNVZXQkNnWVEwSmpUVGl3TWNLbzlIZmt2bWVGQ0RJMGl3cGd2REFMZkdtWFpGZ1dIbmlKOVBwNkVZZFV5SVJEakZpSE9QQ1E9PQo=",
+      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.6.8.exe"
     }
   }
 }
