@@ -1,11 +1,11 @@
 {
-  "version": "0.6.8",
-  "notes": "New Favorites view in the feed: only your favorite artists, all their uploads newest first, with Reposts/Playlists and one-artist filters. Sessions no longer expire after time away: the app renews its SoundCloud sign-in quietly.",
-  "pub_date": "2026-11-14T16:42:54.387Z",
+  "version": "0.6.9",
+  "notes": "The Add to playlist menu now shows each playlist's cover (its artwork, or its first song's cover, like soundcloud.com).",
+  "pub_date": "2026-11-22T02:17:56.117Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM21WQTlXelQ1aXF3WExlZlBqN0h3TUlSUGFmWENwOHlYUU5BT2pTQ3l2SlBWbXMzcHZmRlJDYW9HWkhCR2NiRWdMUFdwMHpSMmhPTlJjclpyMlVVRlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njc0NTc0CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNi44X3g2NC1zZXR1cC5leGUKQzduSC9WOVl4b2l5VFJVNVZXQkNnWVEwSmpUVGl3TWNLbzlIZmt2bWVGQ0RJMGl3cGd2REFMZkdtWFpGZ1dIbmlKOVBwNkVZZFV5SVJEakZpSE9QQ1E9PQo=",
-      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.6.8.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM3EwREhxTnBjTSt1UnE2aUZHQmhpMHVKMWVDSXRBYTA3S2k3ZmdQQ251bGRzQkQxTlVhVDhmVmttMm5YMFptckhmNkxIWWp2TU5MN3ZMREZhSTlHcUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzEzODc2CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNi45X3g2NC1zZXR1cC5leGUKQzBjV1VxODBtUW9aZlJ0UjVxeDB2TU4yaXlINzB3WkRibzR6UU8rcit6NEdVaFBBVTVvVExEMWI5Skk2RWF4NUliK1VmQjhKSzhEUlNtRGdWWkM5QWc9PQo=",
+      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.6.9.exe"
     }
   }
 }
