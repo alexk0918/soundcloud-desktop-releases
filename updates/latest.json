@@ -1,11 +1,11 @@
 {
-  "version": "0.6.9",
-  "notes": "The Add to playlist menu now shows each playlist's cover (its artwork, or its first song's cover, like soundcloud.com).",
-  "pub_date": "2026-11-22T02:17:56.117Z",
+  "version": "0.7.0",
+  "notes": "Reply to comments right in the thread, like on SoundCloud. New notifications bell in the top bar: likes, reposts, follows, comments and mentions, with Reply and Follow back buttons.",
+  "pub_date": "2026-11-26T05:05:13.268Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM3EwREhxTnBjTSt1UnE2aUZHQmhpMHVKMWVDSXRBYTA3S2k3ZmdQQ251bGRzQkQxTlVhVDhmVmttMm5YMFptckhmNkxIWWp2TU5MN3ZMREZhSTlHcUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzEzODc2CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNi45X3g2NC1zZXR1cC5leGUKQzBjV1VxODBtUW9aZlJ0UjVxeDB2TU4yaXlINzB3WkRibzR6UU8rcit6NEdVaFBBVTVvVExEMWI5Skk2RWF4NUliK1VmQjhKSzhEUlNtRGdWWkM5QWc9PQo=",
-      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.6.9.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM2lGYmlGaGNqYXQySVF5MmQrWG9iS1NGNHJPNm82WVZCUTNwcUxRcWcxUDFCMUVHRFZTUTVCR2FIdURCT3FJRHBLVkcwdkVqS21YMXRQMFAwK3Nza3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjY5NTEzCWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNy4wX3g2NC1zZXR1cC5leGUKSnNJcWNRNWpvZ2pYcE9oL2NsVlpPNDlJU2c0UDVjdE1iUlZKSVJENFlURkhQTHZoVmxva2xXbng1Tjd2WHdZRHIweDFock1qV1VlZUNkK3RDUldxRHc9PQo=",
+      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.7.0.exe"
     }
   }
 }
