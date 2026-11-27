@@ -1,11 +1,11 @@
 {
-  "version": "0.7.1",
-  "notes": "Sort your playlists by date added, release date, title or artist. Click a name in notifications to go to their profile. Security fixes: Link Up guests can no longer take over as host, Link Up only shows pictures from SoundCloud, limits against Link Up spam, and updated components.",
-  "pub_date": "2026-11-26T07:48:44.923Z",
+  "version": "0.7.2",
+  "notes": "See how many people liked or reposted a playlist, and click to see who. The notifications bell has a new spot in the top bar and rings every few seconds while you have new notifications.",
+  "pub_date": "2026-11-27T04:59:45.091Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM2dMOVVCMW9qWmE5WVZJakh3blp5WGxPM0JVN2xSdkNlaUM3MGcwYUFkelluNlMwc2kwR3ZycWhvbWtrZDlqL01DNWlFcUVleDAxQWJSci9QL1JrU1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njc5MzI0CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNy4xX3g2NC1zZXR1cC5leGUKRzVkWmtZSndjSVZoMk9TWUhCMUVPWVREcXNKRmhNNlE4cTI0dzE0V1ZuWkE3MFJ0d2J0eU4wNWNFY3hwUXVkeFVtWDNMY01pdk9XcWdsa3NKdGhQQWc9PQo=",
-      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.7.1.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM245MVVEeUJ6ck12UERpODhGWEM3aUtvYStCOHhUeG5CRjNGM0x0SSszTzRxeVg3YmRXdFBtZGZKNDc5NXR3UUc1YnA1T3dTK2hySlhycEd2ZmhpQ3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzU1NTg1CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNy4yX3g2NC1zZXR1cC5leGUKU1RqeXB6ZEM5cHF4cGptaFlmZUdYVnBkbHg0bm9YVy80VWhaVWEzUEJlZUgxRCtnYnhYZGxpSWVyL2hPWjJUY3Z3Z2pabnB2NUFsdkFoM005TEZwQnc9PQo=",
+      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.7.2.exe"
     }
   }
 }
