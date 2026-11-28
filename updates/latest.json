@@ -1,11 +1,11 @@
 {
-  "version": "0.7.3",
-  "notes": "Notifications now open right out of your profile banner (the bell moved there), and Settings has its own spot in the sidebar. New Region settings for date format, 12/24-hour time, number style and the first day of the week. Promoted tracks are labeled in the feed and kept out of New tracks, which now lists newest releases first.",
-  "pub_date": "2026-11-28T02:47:23.643Z",
+  "version": "0.7.4",
+  "notes": "Verified badges\n• Verified artists now have a blue check after their name.\n• Show who has Artist Pro or Artist in Settings → Preferences → Badges (off by default).\nA cleaner feed\n• No promoted tracks, and no uploads from people you don't follow.\nLink Up\n• Hosts can make admins, with the same controls as the host.\n• A dropped connection keeps its spot, and host, for a minute.\nAlso\n• A What's new page in the sidebar, a hardware acceleration setting, a smoother notifications list, and the count sits on the bell.",
+  "pub_date": "2026-11-28T07:15:39.490Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM21xUkFZUWRsbGJpUDRBNURDK2xHR0swWFovUnNKOHo2L2lTdzJiYlFadWFpSWF4K3R2SEZVb0dYMlBLRWNKeE1MQVMybXUwMG9PNzZ3dngwQjkzQUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODM0MDQzCWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNy4zX3g2NC1zZXR1cC5leGUKcWFnZWI1ZVUvRDBEdnF0dE1lOENxQ0ZlVHhXemgvK29lU3lBbWp3STZrbnpHaG1YNTZTZ05hcFdJSzRaejVRMnl2Y3ZlempXd1N6ZFFzc1VHQWdHQkE9PQo=",
-      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.7.3.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM2lpUWd6VGIrZlUwc2lNTUVFUTNjcmc1b3Jtc0ZQRW1xVWZFWS9LSTNRUHFZbE5MUzhHREFpV1hUblVPZHFVRXFWWnFqcVVYU2c4dTU4U1ZPUmxjUkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODUwMTM5CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNy40X3g2NC1zZXR1cC5leGUKQnkvQ0ZLV2ovTi9xR0ltL0U5Um5LV2plakZnMHVUWTZrQ3NaTngzRGFsRzN4dDlIZ2ZrVlRtaUljZEdybkxCdjhoZ0s1RXI2ck0xUGF2Y0Q2MUJLRHc9PQo=",
+      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.7.4.exe"
     }
   }
 }
