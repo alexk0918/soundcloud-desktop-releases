@@ -1,11 +1,11 @@
 {
-  "version": "0.7.2",
-  "notes": "See how many people liked or reposted a playlist, and click to see who. The notifications bell has a new spot in the top bar and rings every few seconds while you have new notifications.",
-  "pub_date": "2026-11-27T04:59:45.091Z",
+  "version": "0.7.3",
+  "notes": "Notifications now open right out of your profile banner (the bell moved there), and Settings has its own spot in the sidebar. New Region settings for date format, 12/24-hour time, number style and the first day of the week. Promoted tracks are labeled in the feed and kept out of New tracks, which now lists newest releases first.",
+  "pub_date": "2026-11-28T02:47:23.643Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM245MVVEeUJ6ck12UERpODhGWEM3aUtvYStCOHhUeG5CRjNGM0x0SSszTzRxeVg3YmRXdFBtZGZKNDc5NXR3UUc1YnA1T3dTK2hySlhycEd2ZmhpQ3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzU1NTg1CWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNy4yX3g2NC1zZXR1cC5leGUKU1RqeXB6ZEM5cHF4cGptaFlmZUdYVnBkbHg0bm9YVy80VWhaVWEzUEJlZUgxRCtnYnhYZGxpSWVyL2hPWjJUY3Z3Z2pabnB2NUFsdkFoM005TEZwQnc9PQo=",
-      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.7.2.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUlExRlJkZGYwM21xUkFZUWRsbGJpUDRBNURDK2xHR0swWFovUnNKOHo2L2lTdzJiYlFadWFpSWF4K3R2SEZVb0dYMlBLRWNKeE1MQVMybXUwMG9PNzZ3dngwQjkzQUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODM0MDQzCWZpbGU6U291bmRDbG91ZCBEZXNrdG9wIFBlcnNvbmFsXzAuNy4zX3g2NC1zZXR1cC5leGUKcWFnZWI1ZVUvRDBEdnF0dE1lOENxQ0ZlVHhXemgvK29lU3lBbWp3STZrbnpHaG1YNTZTZ05hcFdJSzRaejVRMnl2Y3ZlempXd1N6ZFFzc1VHQWdHQkE9PQo=",
+      "url": "https://raw.githubusercontent.com/alexk0918/soundcloud-desktop-releases/main/updates/SoundCloud-Desktop-Setup-0.7.3.exe"
     }
   }
 }
